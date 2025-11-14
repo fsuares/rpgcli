@@ -1,0 +1,37 @@
+{
+  "Espada de madeira": {
+    "type": "weapon",
+    "attack": 5,
+    "price": 50
+  },
+  "Escudo de madeira": {
+    "type": "armor",
+    "defense": 3,
+    "price": 40
+  },
+  "Pocao de vida": {
+    "type": "consumable",
+    "heal": 50,
+    "price": 30
+  },
+  "Espada de aco": {
+    "type": "weapon",
+    "attack": 15,
+    "price": 150
+  },
+  "Escudo de aco": {
+    "type": "armor",
+    "defense": 10,
+    "price": 120
+  },
+  "Pocao de mana": {
+    "type": "consumable",
+    "restore": 40,
+    "price": 35
+  },
+  "Arco encantado": {
+    "type": "weapon",
+    "attack": 25,
+    "price": 300
+  }
+}

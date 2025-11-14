@@ -1,0 +1,7 @@
+{
+  "enemy" : "Balgor, o Guardião de Magma",
+  "health" : 300,
+  "attack" : 30,
+  "xp" : 100,
+  "coins" : 150
+}
