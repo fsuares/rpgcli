@@ -17,7 +17,7 @@ git clone https://github.com/fsuares/rpgcli.git
 In the main file (main.swift) change variable gameDir to absolute path of location of process
 
 ```swift
-let gameDir = "/path-to-your-project/"
+let gameDir = "/path-to-your-local-repository/"
 ```
 
 ## Functions
