@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "type": "swift",
+      "request": "launch",
+      "args": [],
+      "cwd": "${workspaceFolder:rpgcli}",
+      "name": "Debug rpgcli",
+      "target": "rpgcli",
+      "configuration": "debug",
+      "preLaunchTask": "swift: Build Debug rpgcli"
+    },
+    {
+      "type": "swift",
+      "request": "launch",
+      "args": [],
+      "cwd": "${workspaceFolder:rpgcli}",
+      "name": "Release rpgcli",
+      "target": "rpgcli",
+      "configuration": "release",
+      "preLaunchTask": "swift: Build Release rpgcli"
+    }
+  ]
+}
